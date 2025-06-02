@@ -3,16 +3,16 @@ package com.mycompany.automovil.clase;
 public class Auto {
 
     //ATRIBUTOS
-    public String marca;
-    public int modelo;
-    public float motor;
-    public TipoCombustible tipoCombustible;
-    public TipoAutomovil tipoAutomovil;
-    public int numPuertas;
-    public int cantAsientos;
-    public float velocidadMax;
-    public TipoColor color;
-    public float velocidadActual;
+    private String marca;
+    private int modelo;
+    private float motor;
+    private TipoCombustible tipoCombustible;
+    private TipoAutomovil tipoAutomovil;
+    private int numPuertas;
+    private int cantAsientos;
+    private float velocidadMax;
+    private TipoColor color;
+    private float velocidadActual;
 
     //METODOS
     //CONSTRUCTOR
